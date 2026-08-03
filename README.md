@@ -174,15 +174,10 @@ Suggestions, discussions, and feedback are always welcome.
 
 ---
 
-# 📬 Contact
+# 📬 Author
 
 **Sanskar**
-
-LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-
-Hugging Face: https://huggingface.co/YOUR_USERNAME
-
-GitHub: https://github.com/YOUR_USERNAME
+[Hugging Face: https://huggingface.co/YOUR_USERNAME](https://huggingface.co/EquilStable/MEETME)
 
 ---
 
