@@ -177,7 +177,7 @@ Suggestions, discussions, and feedback are always welcome.
 # 📬 Author
 
 **Sanskar**
-[Hugging Face: https://huggingface.co/YOUR_USERNAME](https://huggingface.co/EquilStable/MEETME)
+[Hugging Face: https://huggingface.co/MEETME](https://huggingface.co/EquilStable/MEETME)
 
 ---
 
